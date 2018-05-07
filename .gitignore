@@ -12,3 +12,6 @@ plotting/*.pdf
 *.swp
 results/
 mvn.log
+
+#macOS
+.DS_Store
